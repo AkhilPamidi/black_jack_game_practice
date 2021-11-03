@@ -1,3 +1,5 @@
+from art import logo
+print(logo)
 import random
 print("welcome to the black jack game project")
 cards=[11,2,3,4,5,6,7,8,9,10,10,10,10]
